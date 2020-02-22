@@ -1,7 +1,7 @@
 # Django_TODO
 First Django Project
 
-Clone this Repository
+Clone this Repository and 
 Run:
 
 1. pipenv shell
